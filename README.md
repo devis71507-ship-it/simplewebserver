@@ -100,7 +100,8 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-simplewebserver/image.png
+<img width="930" height="483" alt="image (1)" src="https://github.com/user-attachments/assets/143d246b-2f8a-47d2-88c1-af545e2b410c" />
+
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
